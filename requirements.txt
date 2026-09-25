@@ -1,0 +1,6 @@
+%%writefile requirements.txt
+
+streamlit
+groq
+huggingface_hub
+Pillow
